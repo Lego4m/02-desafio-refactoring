@@ -4,7 +4,7 @@ import { FormHandles } from '@unform/core';
 
 import { Form } from './styles';
 import { Modal } from '../Modal';
-import Input from '../Input';
+import { Input } from '../Input';
 
 import { FoodProductInput } from '../../types';
 
