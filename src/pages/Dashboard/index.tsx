@@ -6,7 +6,7 @@ import { ModalAddFood } from '../../components/ModalAddFood';
 import { ModalEditFood } from '../../components/ModalEditFood';
 import { FoodsContainer } from './styles';
 
-import api from '../../services/api';
+import { api } from '../../services/api';
 import { FoodProduct, FoodProductInput } from '../../types';
 
 export function Dashboard() {
