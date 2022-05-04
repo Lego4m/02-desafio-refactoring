@@ -78,5 +78,3 @@ export function Food({ food, handleDelete, handleEditFood }: FoodProps) {
     </Container>
   );
 };
-
-export default Food;
